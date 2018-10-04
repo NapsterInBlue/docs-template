@@ -1,0 +1,6 @@
+# Don't want to render the builds in master
+_build/
+
+# Python Junk
+__pycache__/
+.ipynb_checkpoints/

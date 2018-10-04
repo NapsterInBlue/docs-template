@@ -1,0 +1,9 @@
+{
+    "project_name": "SampleWiki",
+    "just_accept_default": "docs",
+    "author": "Author of your Project",
+    
+    "_copy_without_render": [
+        "*.html"
+    ]
+}
